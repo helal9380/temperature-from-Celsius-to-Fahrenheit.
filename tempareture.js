@@ -4,6 +4,6 @@ function celsiusTfaren(celsius) {
     return rounded;
 }
 
-let celsius = 26;
+let celsius = 124;
 let harnt = celsiusTfaren(celsius)
 console.log('today haren is :', harnt)
